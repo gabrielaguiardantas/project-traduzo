@@ -1,10 +1,12 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto Traduzo # 
+
+Trigésimo segundo projeto do curso de Desenvolvimento Web Full Stack da Trybe e quarto do módulo eletivo de Python. Desenvolvi uma aplicação utilizando o _Flask(https://flask.palletsprojects.com/en/2.3.x/)_ + _MongoDB(https://www.mongodb.com/pt-br/atlas/database)_. Esse app implementa uma página de tradução de textos com histórico. Principais conhecimentos desenvolvidos e aperfeiçoados neste projeto:
+ 
+ - Flask
+ - MongoDB
+ - Testes em Python
+ - CRUD com Flask
+
+  ## Features implementadas: ##
+
+
