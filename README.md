@@ -9,4 +9,4 @@ Trigésimo segundo projeto do curso de Desenvolvimento Web Full Stack da Trybe e
 
   ## Features implementadas: ##
 
-
+  ![Captura de tela de 2023-08-22 12-05-53](https://github.com/gabrielaguiardantas/project-traduzo/assets/110852595/dfc8c5e9-5e6d-432d-9095-2c6b162acb47)
